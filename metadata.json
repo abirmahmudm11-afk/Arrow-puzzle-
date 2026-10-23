@@ -1,0 +1,6 @@
+{
+  "name": "ArrowFlow: Zen Arrow Escape Puzzle",
+  "description": "An advanced, deeply satisfying arrow-clearing puzzle game featuring 100+ handcrafted levels, daily challenges, time trials, customizable themes and arrow skins, rich audio soundscape, and save synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
